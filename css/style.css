@@ -1,0 +1,14 @@
+body {
+    background-color    : black;
+    color               : white;
+    font-family         : 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+textarea{
+    resize              : none;
+}
+table{
+    color               : inherit;
+}
+.test {
+    text-transform      : capitalize;
+}
